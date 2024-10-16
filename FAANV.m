@@ -20,7 +20,7 @@ function [R, S, SigmaKr] = FAANV(X, r, thres, init, epsilon)
 %
 % Author: Prabhu Babu (prabhubabu@care.iitd.ac.in)
 % Date: 24/01/2023
-% Modified by: M-.G. Wang
+% Modified by: M.-G. Wang
 % Date: 05/05/2023
 
 M       = size(X,1) / 3;       % Dimension
